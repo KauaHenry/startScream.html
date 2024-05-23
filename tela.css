@@ -1,0 +1,24 @@
+.img-tamanho {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.form {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: ;
+}
+.titulo {
+    text-align: center;
+}
+
+body {
+    background-color: black; /* Cor de fundo para todo o corpo da página */
+
+    color: whitesmoke;
+}
+.buton {
+    border: gray;
+}
+
